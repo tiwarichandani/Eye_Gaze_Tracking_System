@@ -1,1 +1,1 @@
-# Eye_Gaze_Tracking_System
+The Eye Gaze Tracking System is a cutting-edge technology that allows users to interact with computers, mobile devices, and other electronic interfaces using their eye movements. It utilizes sophisticated hardware and software components to accurately track the user's eye gaze and convert it into meaningful input commands, empowering individuals with a new and efficient way to control digital devices.
